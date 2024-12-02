@@ -1,5 +1,4 @@
-#Installation
-npm install
 
-#Run Command
-npm run start
+### Key Sections:
+- **Installation**: npm install.
+- **Running the Application**: npm run start.
